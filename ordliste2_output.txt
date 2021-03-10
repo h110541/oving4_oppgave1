@@ -1,0 +1,36 @@
+Oppgi en streng, avslutt med zzz :asdf
+ordListe1 inneholder ikke asdf
+Oppgi en streng, avslutt med zzz :Bergen
+ordListe1 inneholder Bergen
+Oppgi en streng, avslutt med zzz :zxcv
+ordListe1 inneholder ikke zxcv
+Oppgi en streng, avslutt med zzz :buss
+ordListe1 inneholder buss
+Oppgi en streng, avslutt med zzz :zzz
+Utskrift av unionen av begge ordlistene
+rute
+God
+Bergen
+zxcv
+Olsen
+Hans
+dag
+buss
+Førde
+Ole
+Hansaby
+asdf
+Hansen
+Utskrift av snittet av begge ordlistene
+buss
+Bergen
+Utskrift av differensen av begge ordlistene
+Hans
+Hansen
+Olsen
+Ole
+dag
+rute
+Førde
+Hansaby
+God

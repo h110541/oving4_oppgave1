@@ -1,0 +1,17 @@
+Bruk av KjedetMengde:
+
+Antall kuler totalt: 75
+
+kule 1 funnet i mengde 1
+Like mengder
+Ulike mengder
+
+####################
+
+Bruk av TabellMengde:
+
+Antall kuler totalt: 75
+
+kule 1 funnet i mengde 1
+Like mengder
+Ulike mengder
